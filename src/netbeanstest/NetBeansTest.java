@@ -19,8 +19,8 @@ public class NetBeansTest {
         System.out.println("There are currently " + fgtAmount + " fgts around.");
         
         System.out.println("Amount of fgts: " + fgtAmount);
-        skerm sk = new skerm();
-        sk.setVisible(true);
+        //skerm sk = new skerm();
+        //sk.setVisible(true);
     }
     
 }
